@@ -1,0 +1,19 @@
+.washing_machine {
+width: 450px;
+height: 300px;
+}
+.pl {
+border: 1px solid black;
+}
+.email {
+margin-top: 6px;
+}
+.email {
+padding: 6px;
+}
+footer {
+margin-top: 2rem;
+}
+.submit {
+margin-top: 6px;
+}
