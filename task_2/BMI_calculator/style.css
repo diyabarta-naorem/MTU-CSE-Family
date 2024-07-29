@@ -1,0 +1,16 @@
+body{
+    background-color: #7e7ef8;
+    color: whitesmoke;
+}
+h1{
+     text-align: center;
+}
+.container{
+    /* background-color: whitesmoke; */
+    align-items: center;
+    justify-content: center;
+    height: 15rem;
+    width: 15rem;
+    border-radius: 14px;
+}
+
